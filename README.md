@@ -3,11 +3,13 @@
 </div>
 
 
-## Welcome
+## Welcome Visitor 🤗
 ----
 
-This is where I keep my projects and other things, along with a few other things.
-Feel Free to look around.
+This is where I keep my projects and other things, along with a few other things not so important.
+Feel Free to look around 👀👀👀.
+
+Currently Learning System Design and distributed systems.
 
 
 ![](https://komarev.com/ghpvc/?username=Sh1vd3v&color=ff69b4)
