@@ -7,7 +7,7 @@
 ----
 
 This is where I keep my projects and other things, along with a few other things not so important. <br/>
-Feel Free to look around 👀👀👀.
+Feel free to look around 👀👀👀.
 
 Currently Learning System Design and distributed systems.
 
