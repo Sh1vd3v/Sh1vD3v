@@ -10,7 +10,7 @@ This is where I keep my projects and other things, along with a few other things
 Feel Free to look around.
 
 
-![](https://komarev.com/ghpvc/?username=Sh1vd3v&color=dc143c)
+![](https://komarev.com/ghpvc/?username=Sh1vd3v&color=#ff69b4)
 <!--
 **Sh1vd3v/Sh1vD3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
