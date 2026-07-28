@@ -12,7 +12,6 @@ Feel free to look around 👀👀👀.
 Currently Learning System Design and distributed systems.
 
 
-![](https://komarev.com/ghpvc/?username=Sh1vd3v&color=ff69b4)
 <!--
 **Sh1vd3v/Sh1vD3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
