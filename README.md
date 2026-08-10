@@ -1,10 +1,7 @@
-<!-- <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div> -->
 
 <h1 align='center'>Hi, I'm Shiv Dev 👋🏻👋🏻</h1>
 
-<h3 align = 'center' style = 'color #0000000'> A <i>software engineer</i> who enjoys
+<h3 align = 'center'> A <i>Software Engineer</i> who enjoys
 understanding how things work, <br>
 and making them work better
 </h3>
@@ -15,10 +12,8 @@ and making them work better
 </p>
 
 
-
-<pre align= 'center' style = 'background-color:#AEE830; color: #000000; border: solid #AEEEEE'>
+<pre align= 'center'>
     <i>There is not path to <strong>Happiness</Strong>
       <Strong>Happiness</Strong> is the Path
                         - Thich Nhat Hanh </i>
 </pre>
-
